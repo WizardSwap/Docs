@@ -19,14 +19,14 @@
 
 ### **System Features:**
 
-* [x] **Dividends (**[**Read More**](broken-reference)**)**
 * [x] **Farming (**[**Read More**](broken-reference)**)**
+* [x] **Dividends (**[**Read More**](broken-reference)**)**
 * [ ] **Bridge**
 
 ### **Security:**&#x20;
 
-* [x] **Long-Term Project (**[**Read More**](broken-reference)**)**
 * [x] **100% Liquidity Burned (**[**Read More**](broken-reference)**)**
 * [x] **No Migrator Code (**[**Read More**](broken-reference)**)**
 * [x] **Timelock (14 Days) (**[**Read More**](broken-reference)**)**
+* [x] **Emergency Withdrawal (**[**Read More**](broken-reference)**)**
 * [x] **Audit & Review (**[**Read More**](broken-reference)**)**

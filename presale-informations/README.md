@@ -21,9 +21,9 @@
 
 |              Destination             | Percentage |
 | :----------------------------------: | :--------: |
-|         **Initial Liquidity**        |   **50%**  |
-|             **Dividends**            |   **25%**  |
-| **Marketing Fund + Boost Up System** |   **15%**  |
+|         **Initial Liquidity**        |   **60%**  |
+|             **Dividends**            |   **20%**  |
+| **Marketing Fund + Boost Up System** |   **10%**  |
 |            **Salary Fund**           |   **10%**  |
 
 {% hint style="success" %}
