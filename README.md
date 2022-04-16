@@ -1,6 +1,8 @@
-# Home
+---
+description: Wizard Swap - A part of Warlords Ecosystem
+---
 
-### Wizard Swap - A part of Warlords Ecosystem <a href="#harmonycougar-the-higher-the-better" id="harmonycougar-the-higher-the-better"></a>
+# Home
 
 ### Why presale? ([Learn More](broken-reference)) <a href="#harmonycougar-the-higher-the-better" id="harmonycougar-the-higher-the-better"></a>
 
