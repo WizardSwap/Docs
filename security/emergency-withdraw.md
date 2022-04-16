@@ -5,5 +5,5 @@ If something happens to our frontend such as a DDOS attack or a temporary outage
 Call the _**emergencyWithdraw**_ function to withdraw your staked tokens.
 
 {% hint style="success" %}
-You can check our contracts [**here**](broken-reference).
+You can check our contracts [**here**](../tokenomic/contracts/).
 {% endhint %}

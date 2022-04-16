@@ -7,15 +7,15 @@
 |  **Close Token Presale** |                                                                                **Monday, 2 May 2022 09:00 GMT**                                                                                |
 |    **Added Liquidity**   |                                                                                **Monday, 2 May 2022 10:00 GMT**                                                                                |
 | **Presale Claim Enable** |                                                                                **Tuesday, 3 May 2022 10:00 GMT**                                                                               |
-|     **Start Farming**    | <p><strong>Thursday, 5 May 2022 10:00 GMT</strong><br><strong>(Block:</strong> <a href="https://polygonscan.com/block/countdown/27947200"><strong>#27947200</strong></a><strong>)</strong></p> |
+|     **Start Farming**    | <p><strong>Thursday, 5 May 2022 10:00 GMT</strong><br><strong>(Block:</strong> <a href="https://polygonscan.com/block/countdown/27983000"><strong>#27983000</strong></a><strong>)</strong></p> |
 
 
 
 ### **2. When Enable Presale Claim?** <a href="#2-when-enable-presale-claim" id="2-when-enable-presale-claim"></a>
 
-|           Events           |                          Time                          |
-| :------------------------: | :----------------------------------------------------: |
-|  **Presale Claim Enable**  |            **Tuesday, 3 May 2022 10:00 GMT**           |
-| **Slowly Claim Mechanism** | ****[**Read More**](launch-timeline.md#1-timeline)**** |
-|    **Presale Contract**    |    [0xadBDf3f0f15E828c737f5A76454F692C998F790A](./)    |
+|           Events           |                                                 Time                                                 |
+| :------------------------: | :--------------------------------------------------------------------------------------------------: |
+|  **Presale Claim Enable**  |                                   **Tuesday, 3 May 2022 10:00 GMT**                                  |
+| **Slowly Claim Mechanism** |                   ****[**Read More**](presale-informations/claim-mechanism.md)****                   |
+|    **Presale Contract**    | [0xadBDf3f0f15E828c737f5A76454F692C998F790A](https://app.gitbook.com/u/YypItSVWVeWvIprkCc5CLGzMOrs2) |
 

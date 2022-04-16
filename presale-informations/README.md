@@ -35,5 +35,5 @@
 {% endhint %}
 
 {% hint style="success" %}
-**Slowly Claim Mechanism (**[**Read More**](broken-reference)**)**
+**Slowly Claim Mechanism (**[**Read More**](claim-mechanism.md)**)**
 {% endhint %}

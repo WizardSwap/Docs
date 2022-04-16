@@ -4,7 +4,7 @@ description: Wizard Swap - A part of Warlords Ecosystem
 
 # Home
 
-### Why presale? ([Learn More](broken-reference)) <a href="#harmonycougar-the-higher-the-better" id="harmonycougar-the-higher-the-better"></a>
+### Why presale? ([Learn More](presale-informations/)) <a href="#harmonycougar-the-higher-the-better" id="harmonycougar-the-higher-the-better"></a>
 
 * **Bots destroy the "fair launch" purpose.**
 * **We prefer that everyone pay the same price initially.**
@@ -14,21 +14,21 @@ description: Wizard Swap - A part of Warlords Ecosystem
 
 ### **Highlight Features:**
 
-* [x] **Slowly Presale Claim: Keep The Price More Stable (**[**Read More**](broken-reference)**)**
+* [x] **Slowly Presale Claim: Keep The Price More Stable (**[**Read More**](presale-informations/claim-mechanism.md)**)**
 * [x] **Low Deposit Fee: 2% For Non-Native Pools**
 * [x] **Transaction Fees: Automatic Burning 2%**
 * [x] **Anti Whale: 10% Of Total Supply**
 
 ### **System Features:**
 
-* [x] **Farming (**[**Read More**](broken-reference)**)**
-* [x] **Dividends (**[**Read More**](broken-reference)**)**
+* [x] **Farming (**[**Read More**](products/wizard-farming.md)**)**
+* [x] **Dividends (**[**Read More**](products/wizard-dividends.md)**)**
 * [ ] **Bridge**
 
 ### **Security:**&#x20;
 
-* [x] **100% Liquidity Burned (**[**Read More**](broken-reference)**)**
-* [x] **No Migrator Code (**[**Read More**](broken-reference)**)**
-* [x] **Timelock (14 Days) (**[**Read More**](broken-reference)**)**
-* [x] **Emergency Withdrawal (**[**Read More**](broken-reference)**)**
-* [x] **Audit & Review (**[**Read More**](broken-reference)**)**
+* [x] **100% Liquidity Burned (**[**Read More**](tokenomic/contracts/burn-transactions.md)**)**
+* [x] **No Migrator Code (**[**Read More**](security/no-migrator-code.md)**)**
+* [x] **Timelock (14 Days) (**[**Read More**](security/timelock-14-days.md)**)**
+* [x] **Emergency Withdrawal (**[**Read More**](security/emergency-withdraw.md)**)**
+* [x] **Audit & Review (**[**Read More**](security/audits-and-reviews.md)**)**
