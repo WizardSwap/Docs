@@ -9,7 +9,7 @@
 * Max Supply: **25,000,000 $WIZARD**
 * Presale Price: **$0.10**
 * Listing Price: **$0.20 ($0.15 **_**If the presale cap is not met)**_
-* _Contract: ****_ [**0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F**](wizard-tokenomic.md#basic-information)****
+* _Contract: ****_ [**0xe42D6c31904dF0930Cbc1b40dD30c34B12FfE30C**](https://polygonscan.com/token/0xe42d6c31904df0930cbc1b40dd30c34b12ffe30c)****
 
 ****
 

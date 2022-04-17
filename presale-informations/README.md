@@ -6,14 +6,14 @@
 
 ### **1. Presale Information** <a href="#1-presale-information" id="1-presale-information"></a>
 
-|        Presale        |                                     Detail                                     |
-| :-------------------: | :----------------------------------------------------------------------------: |
-| **Total Raised Goal** |                                  **​$200,000**                                 |
-|   **Presale Price**   |                                   **​$0.10**                                   |
-|        **Time**       |                      **Thursday, 28 April 2022 09:00 GMT**                     |
-|      **Duration**     |                                   **4 days**                                   |
-|   **Listing Price**   |                ​**$0.20** ($0.15 If the presale cap is not met)                |
-|  **Presale Contract** | [**0xadBDf3f0f15E828c737f5A76454F692C998F790A**](./#1-presale-information)**** |
+|        Presale        |                                                                Detail                                                                |
+| :-------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| **Total Raised Goal** |                                                             **​$200,000**                                                            |
+|   **Presale Price**   |                                                              **​$0.10**                                                              |
+|        **Time**       |                                                 **Thursday, 28 April 2022 09:00 GMT**                                                |
+|      **Duration**     |                                                              **4 days**                                                              |
+|   **Listing Price**   |                                           ​**$0.20** ($0.15 If the presale cap is not met)                                           |
+|  **Presale Contract** | ****[**0x49CEF9Ce0548cC4b34280d87e74fE6A75e363C7a**](https://polygonscan.com/address/0x49cef9ce0548cc4b34280d87e74fe6a75e363c7a)**** |
 
 
 

@@ -13,9 +13,9 @@
 
 ### **2. When Enable Presale Claim?** <a href="#2-when-enable-presale-claim" id="2-when-enable-presale-claim"></a>
 
-|           Events           |                                                 Time                                                 |
-| :------------------------: | :--------------------------------------------------------------------------------------------------: |
-|  **Presale Claim Enable**  |                                   **Tuesday, 3 May 2022 10:00 GMT**                                  |
-| **Slowly Claim Mechanism** |                   ****[**Read More**](presale-informations/claim-mechanism.md)****                   |
-|    **Presale Contract**    | [0xadBDf3f0f15E828c737f5A76454F692C998F790A](https://app.gitbook.com/u/YypItSVWVeWvIprkCc5CLGzMOrs2) |
+|           Events           |                                                                 Time                                                                 |
+| :------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|  **Presale Claim Enable**  |                                                   **Tuesday, 3 May 2022 10:00 GMT**                                                  |
+| **Slowly Claim Mechanism** |                                   ****[**Read More**](presale-informations/claim-mechanism.md)****                                   |
+|    **Presale Contract**    | ****[**0x49CEF9Ce0548cC4b34280d87e74fE6A75e363C7a**](https://polygonscan.com/address/0x49cef9ce0548cc4b34280d87e74fe6a75e363c7a)**** |
 
