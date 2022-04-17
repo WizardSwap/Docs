@@ -1,7 +1,3 @@
----
-description: Wizard Swap - A part of Warlords Ecosystem
----
-
 # Home
 
 ### Why presale? ([Learn More](presale-informations/)) <a href="#harmonycougar-the-higher-the-better" id="harmonycougar-the-higher-the-better"></a>
