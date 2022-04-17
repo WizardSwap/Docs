@@ -31,7 +31,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-**100% Liquidity will be BURNED and LOCKED FOREVER**
+**100% Liquidity will be BURNED and LOCKED FOREVER (**[**Read More**](../tokenomic/contracts/burn-transactions.md)**)**
 {% endhint %}
 
 {% hint style="success" %}
