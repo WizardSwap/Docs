@@ -4,4 +4,4 @@
     ****
 
     ****
-* **WizardMasterChef's ownership transferred to Timelock 14 Days Transaction:** [**https://polygonscan.com/**](https://polygonscan.com)****
+* **WizardMasterChef's ownership transferred to Timelock 14 Days Transaction:** [**https://polygonscan.com/tx/0xbe3567cffc058ec81a808c4db845fdf396330104205087d1ac42b8bfc33b1ef9**](https://polygonscan.com/tx/0xbe3567cffc058ec81a808c4db845fdf396330104205087d1ac42b8bfc33b1ef9)****
